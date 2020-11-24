@@ -9,7 +9,7 @@ const tasks = [
   {
     id: 2,
     name: "study",
-    done: true,
+    done: false,
     priority: "low",
     description: "prepare for the exam..",
   },
